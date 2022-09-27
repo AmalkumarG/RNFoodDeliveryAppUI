@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "foodD",
+    "slug": "foodD",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "Android.foodDelivery"
+    }
+  },
+  "name": "foodD"
+}
