@@ -26,3 +26,6 @@ React native android food delivery app
     "react-native-web": "0.17.7",
     "react-redux": "^8.0.2",
     "redux": "^4.2.0"
+
+
+#sample output
