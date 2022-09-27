@@ -31,3 +31,4 @@ React native android food delivery app
 
 
 # Sample output 
+https://user-images.githubusercontent.com/102892250/192567134-d3cafb38-3504-45c7-bf65-7247fedfcb02.mp4
