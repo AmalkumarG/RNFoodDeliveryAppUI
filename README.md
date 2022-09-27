@@ -1,7 +1,9 @@
 # RNFoodDeliveryApp_UI
 #Description
 React native android food delivery app
-Dependecies used -- 
+
+
+#Dependecies used -- 
 
   
     "@react-native-masked-view/masked-view": "^0.2.6",
